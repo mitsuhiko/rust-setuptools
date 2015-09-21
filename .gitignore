@@ -1,0 +1,9 @@
+dist
+build
+*.egg-info
+*.dist-info
+.DS_Store
+venv
+.eggs
+*.pyc
+*.pyo
